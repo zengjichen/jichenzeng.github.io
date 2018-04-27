@@ -6,7 +6,7 @@ email: 1934046@gmail.com
 description: "Toward Tomorrow."
 keyword: CV, Deep Learning "
 url: "https://github.com/zengjichen/zengjichen.github.io"          # your host, for absolute URL
-baseurl: "https://github.com/zengjichen"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "zengjichen.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zengjichen" # you code repository
 
 # Sidebar settings
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 weibo_username:     少年小曾15
 #zhihu_username:     qiubaiying
-#github_username:    qiubaiying
+github_username:    zengjichen
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
